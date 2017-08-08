@@ -33,9 +33,9 @@ Contact me for any questions you might have.
 
 ### SHA1 hashes
 Verify your files using this hash.
-- curl.exe 9d0bf78d215290c88081e83d75383fc1e8db9017
-- curl-ca-bundle.crt 76c94151f0205a933f5ebd6713bd728eb3823762
-- imgur_gifv.ahk 1cd3ed16c52bfdf779a0a7f03ec1a1a6acd9b2a0
-- imgur_gifv.exe 64dc5eb3047d6be847d1fe91b70a9405d63f4ad3
-- libcurl.dll 904c26484def94bd7c78a5a6eb6811ae7fbdd45c
-- logo.png 23c70941c62dc9237cc367204f86c20dc17ccb13
+- curl.exe `9d0bf78d215290c88081e83d75383fc1e8db9017`
+- curl-ca-bundle.crt `76c94151f0205a933f5ebd6713bd728eb3823762`
+- imgur_gifv.ahk `1cd3ed16c52bfdf779a0a7f03ec1a1a6acd9b2a0`
+- imgur_gifv.exe `64dc5eb3047d6be847d1fe91b70a9405d63f4ad3`
+- libcurl.dll `904c26484def94bd7c78a5a6eb6811ae7fbdd45c`
+- logo.png `23c70941c62dc9237cc367204f86c20dc17ccb13`
